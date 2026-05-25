@@ -31,4 +31,4 @@ yarn-error.log*
 .biome/
 
 
-.docs
+.docs.docs/
