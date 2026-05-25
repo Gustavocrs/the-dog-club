@@ -30,6 +30,7 @@ yarn-error.log*
 # Biome
 .biome/
 
-
-.docs.docs/
+# Project Specific
+.docs/
 AGENTS.md
+the-dog-club-content.md
