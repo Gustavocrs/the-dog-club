@@ -107,10 +107,10 @@ the-dog-club/
 
 <br />
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 6px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 4px; margin-top: 24px;">
   <span>Desenvolvido por </span>
-  <a href="https://systechdev.com.br" target="_blank" rel="noopener noreferrer" style="color: #FFB800; font-weight: 600; text-decoration: none; display: flex; align-items: center; gap: 4px;">
-    <img src="./public/systech-logo.svg" width="16" height="16" alt="Systech Logo" style="vertical-align: middle;" />
-    SYSTECH
+  <a href="https://systechdev.com.br" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 4px; color: #FFB800; font-weight: 600; text-decoration: none;">
+    <img src="public/systech-logo.svg" alt="Systech" width="16" height="16" style="display: inline-block;" />
+    Systech
   </a>
 </div>
