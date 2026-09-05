@@ -34,3 +34,7 @@ yarn-error.log*
 .docs/
 AGENTS.md
 the-dog-club-content.md
+
+# Documentação interna
+docs/
+docs/*
